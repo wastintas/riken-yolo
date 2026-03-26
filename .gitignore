@@ -1,0 +1,6 @@
+.env
+output/
+__pycache__/
+*.pyc
+Riken.yolov8-obb.zip
+riken_ls_export.zip
