@@ -1,4 +1,4 @@
-path: /home/washp/mac-was/huggui/dataset_003
+path: /content/riken-yolo/dataset_003
 train: train/images
 val: valid/images
 
